@@ -1,0 +1,212 @@
+{
+	"fileName": "PCB_PCB4_2025-04-10",
+	"language": "en",
+	"pageSet": "paged",
+	"needMenu": true,
+	"needAnnot": false,
+	"onlyShowStroke": false,
+	"customPage": [
+		{
+			"checked": true,
+			"name": "Top Assembly Drawings",
+			"layer": [
+				{
+					"layerId": 1,
+					"isMirror": false,
+					"transparency": 80,
+					"checked": true,
+					"layerName": "Top Layer",
+					"color": "#ff0000"
+				},
+				{
+					"layerId": 3,
+					"isMirror": false,
+					"transparency": 0,
+					"checked": true,
+					"layerName": "Top Silkscreen Layer",
+					"color": "#ffcc00"
+				},
+				{
+					"layerId": 11,
+					"isMirror": false,
+					"transparency": 0,
+					"checked": true,
+					"layerName": "Board Outline Layer",
+					"color": "#ff00ff"
+				},
+				{
+					"layerId": 47,
+					"isMirror": false,
+					"transparency": 0,
+					"checked": true,
+					"layerName": "Hole Layer",
+					"color": "#222222"
+				}
+			],
+			"object": [
+				"TopPad",
+				"BottomPad",
+				"MultiPad",
+				"Via",
+				"PadDrill",
+				"ViaDrill",
+				"Track",
+				"Text",
+				"Image",
+				"Dimension",
+				"BoardOutline",
+				"BoardCutout",
+				"CopperOutline",
+				"CopperFilled",
+				"TearDrop",
+				"SolidRegion",
+				"ProhibitedRegion",
+				"FPCStiffener",
+				"Line",
+				"PlaneZone",
+				"ComponentProperty",
+				"ComponentSilkscreen",
+				"Shell_Outline",
+				"Shell_ScrewPillar",
+				"Shell_SideDatumLine",
+				"Shell_SideSlotRegion",
+				"Shell_TopBottomSlotRegion",
+				"Shell_SideEntity",
+				"Shell_TopBottomEntity"
+			],
+			"pageNo": 1,
+			"colorType": "Black on White",
+			"background": {
+				"checked": true,
+				"color": "#FFFFFF"
+			}
+		},
+		{
+			"checked": true,
+			"name": "Bottom Assembly Drawings",
+			"layer": [
+				{
+					"layerId": 2,
+					"isMirror": true,
+					"transparency": 80,
+					"checked": true,
+					"layerName": "Bottom Layer",
+					"color": "#0000ff"
+				},
+				{
+					"layerId": 4,
+					"isMirror": true,
+					"transparency": 0,
+					"checked": true,
+					"layerName": "Bottom Silkscreen Layer",
+					"color": "#66cc33"
+				},
+				{
+					"layerId": 11,
+					"isMirror": true,
+					"transparency": 0,
+					"checked": true,
+					"layerName": "Board Outline Layer",
+					"color": "#ff00ff"
+				},
+				{
+					"layerId": 47,
+					"isMirror": true,
+					"transparency": 0,
+					"checked": true,
+					"layerName": "Hole Layer",
+					"color": "#222222"
+				}
+			],
+			"object": [
+				"TopPad",
+				"BottomPad",
+				"MultiPad",
+				"Via",
+				"PadDrill",
+				"ViaDrill",
+				"Track",
+				"Text",
+				"Image",
+				"Dimension",
+				"BoardOutline",
+				"BoardCutout",
+				"CopperOutline",
+				"CopperFilled",
+				"TearDrop",
+				"SolidRegion",
+				"ProhibitedRegion",
+				"FPCStiffener",
+				"Line",
+				"PlaneZone",
+				"ComponentProperty",
+				"ComponentSilkscreen",
+				"Shell_Outline",
+				"Shell_ScrewPillar",
+				"Shell_SideDatumLine",
+				"Shell_SideSlotRegion",
+				"Shell_TopBottomSlotRegion",
+				"Shell_SideEntity",
+				"Shell_TopBottomEntity"
+			],
+			"pageNo": 2,
+			"colorType": "Black on White",
+			"background": {
+				"checked": true,
+				"color": "#FFFFFF"
+			}
+		},
+		{
+			"checked": true,
+			"name": "Drill Drawing",
+			"layer": [
+				{
+					"layerId": 56,
+					"isMirror": false,
+					"transparency": 0,
+					"checked": true,
+					"layerName": "Drill Drawing Layer",
+					"color": "#008080"
+				}
+			],
+			"object": [
+				"TopPad",
+				"BottomPad",
+				"MultiPad",
+				"Via",
+				"PadDrill",
+				"ViaDrill",
+				"Track",
+				"Text",
+				"Image",
+				"Dimension",
+				"BoardOutline",
+				"BoardCutout",
+				"CopperOutline",
+				"CopperFilled",
+				"TearDrop",
+				"SolidRegion",
+				"ProhibitedRegion",
+				"FPCStiffener",
+				"Line",
+				"PlaneZone",
+				"ComponentProperty",
+				"ComponentSilkscreen",
+				"Shell_Outline",
+				"Shell_ScrewPillar",
+				"Shell_SideDatumLine",
+				"Shell_SideSlotRegion",
+				"Shell_TopBottomSlotRegion",
+				"Shell_SideEntity",
+				"Shell_TopBottomEntity"
+			],
+			"pageNo": 3,
+			"colorType": "Black on White",
+			"background": {
+				"checked": true,
+				"color": "#FFFFFF"
+			}
+		}
+	],
+	"rangeText": "PCB4"
+}
